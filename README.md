@@ -1,2 +1,4 @@
 # Actividad-4
-POO (2024)/Unidad 2-Ejercicio 4
+UNSJ- LCC/LSI
+Ejercicio de la Unidad n°2
+2024
